@@ -24,8 +24,3 @@ It’s a fun and secure way to earn while holding your favorite NFTs!
 ## Installation
 
 Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/keidev123/NFT-staking-aurora.git
-cd NFT-staking-aurora
-npm install
